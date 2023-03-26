@@ -5,3 +5,6 @@ Now, the images are been cropped and stored and finally trained in the CNN model
 ![Model_architecture](https://user-images.githubusercontent.com/111417300/227766242-e46a5086-d27e-4940-933f-1faf5f8cd5ef.jpg)
 
 and finally we are getting the accuracy to be around 89%
+
+## Datasets:
+Task2 : https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection

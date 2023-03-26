@@ -42,3 +42,12 @@ and finally we are getting the accuracy to be around 89%
 
 ## Contributors 
 https://github.com/pratham180702
+
+
+## Datasets:
+
+Task1 :
+https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+
+Task2 :
+https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection
